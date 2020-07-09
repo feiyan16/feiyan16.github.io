@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    text-align: center;
+    background: #76AD63;
+}
+
+.title {
+    width: 90%;
+    border: 10px solid #FF86B4;
+    margin-left: 75px;
+    padding: 0;
+}
+
+.rumor {
+    font-size: 24px;
+    color:brown;
+    width: 500px;
+    margin-left: 480px;
+    padding: 10px;
+    border: 5px solid;
+    
+}
+
+.title h1 {
+    text-transform: uppercase;
+    font-size: 100px;
+    text-shadow: 3px 3px 10px red
+}
+
+.d {
+    text-transform: uppercase;
+    color: red;
+}
+
+blockquote {
+    font-family: cursive;
+    border: 3px dotted #FF00B4;
+    padding: 10px;
+}
+
+q {
+    font-size: 36px;
+}
+
+#alex {
+    font-family: sans-serif;
+    color: blue;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+h3 {
+    font-size: 56px;
+    color: darkorchid;
+    text-shadow: 3px 3px 2px #000;
+    padding: 0;
+    margin: 0;
+}
+select {
+    height: 100px;
+    width: 300px;
+    margin: 2rem;
+    font-size: 20px;
+}
